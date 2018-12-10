@@ -1,0 +1,27 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {
+      "type":"Feature",
+      "id":"0",
+      "geometry":{"type":"Point","coordinates":[-74.0109001284475,40.70874886278549]},
+      "properties":{
+        "address":"125 Broadway",
+        "city":"New York",
+        "state":"NY",
+        "zip":"10006"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"1",
+      "geometry":{"type":"Point","coordinates":[-74.0082309440472,40.708266006244315]},
+      "properties":{
+        "address":"59 Maiden Lane",
+        "city":"New York",
+        "state":"NY",
+        "zip":"10038"
+      }
+    }
+  ]
+}
